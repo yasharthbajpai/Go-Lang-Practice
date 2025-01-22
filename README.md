@@ -33,6 +33,8 @@ This repository contains my solutions to various Go programming problems to stre
 1. Clone this repository
 2. Navigate to individual problem directories
 3. Run any solution using:
+ 
+   go run main.go
 
 
 
